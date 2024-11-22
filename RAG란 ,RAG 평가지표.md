@@ -67,7 +67,7 @@ RAG 기술은 정보 검색, 팩트 체킹, 질의응답, 등의 task에서 활�
 
 Machine Translation평가 지표들
 
-![image.png](RAG%E1%84%85%E1%85%A1%E1%86%AB%20,%20RAG%20%E1%84%91%E1%85%A7%E1%86%BC%E1%84%80%E1%85%A1%E1%84%8C%E1%85%B5%E1%84%91%E1%85%AD%206e4ddcc78a21437ea9e7e03a490ba0ec/image.png)
+![image.png](RAG란, RAG평가지표.assets/image.png)
 
 Taxonomy of automatic evaluation metrics. [(그림 출처,A Survey on Evaluation Metrics for Machine Translation)](https://www.mdpi.com/2227-7390/11/4/1006)
 
